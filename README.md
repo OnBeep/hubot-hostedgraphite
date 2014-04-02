@@ -1,8 +1,8 @@
-# Hubot Example
+# Hubot Hosted Graphite Script
 
-An example script package for Hubot
+Allows searching for and displaying of hostedgraphite.com graphs using Hubot.
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
+[![Build Status](https://travis-ci.org/OnBeep/hubot-hostedgraphite.png)](https://travis-ci.org/OnBeep/hubot-hostedgraphite)
 
 ## Directory Structure
 

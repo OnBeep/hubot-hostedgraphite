@@ -1,8 +1,8 @@
 {
-  "name": "hubot-example",
-  "description": "An example script pacakage for Hubot",
+  "name": "hubot-hostedgraphite",
+  "description": "Search and display hostedgraphite.com graphs using Hubot.",
   "version": "1.0.0",
-  "author": "Tom Bell <tomb@tomb.io>",
+  "author": "Greg Albrecht <gba@onbeep.com>",
   "license": "MIT",
 
   "keywords": [
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-example.git"
+    "url": "git://github.com/OnBeep/hubot-hostedgraphite.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+    "url": "https://github.com/OnBeep/hubot-hostedgraphite/issues"
   },
 
   "dependencies": {
